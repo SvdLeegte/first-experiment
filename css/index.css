@@ -1,1 +1,13 @@
-body {background-color: powderblue;}
+.sidebar-nav
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+{
+  display: block;
+  background-color: #fffff;
+}
+:hover {
+  background-color: #fffff;
+  color: green;
